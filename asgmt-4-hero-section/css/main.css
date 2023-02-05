@@ -1,0 +1,55 @@
+body {
+  font-size: 50px;
+  margin: 0;
+  background-color: rgb(10, 157, 237);
+  text-decoration: none;
+  background-image: url(/asgmt-4-hero-section/css/images/rashid-cafe-img.jpeg);
+ 
+  min-height: 100vh;
+  padding: 1rem;
+  
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-decoration: none;
+}
+
+header {
+  justify-content: flex-end;
+  display: flex;
+  padding: 1rem ;
+  
+
+  
+} 
+
+p {
+  font-family: 'Macondo', cursive;
+  /* font-family: Helvetica, cursive; */
+  font-size: clamp(64px, 10vw, 100px);
+  margin: 0;
+  padding-right: 0rem;
+  color: aliceblue;
+  
+  
+}
+
+
+a {
+  flex-flow: column;
+  text-decoration: none;
+  color: red;
+  align-items: stretch; 
+  justify-content: flex-end;
+  
+}
+
+nav ul {
+
+  border-radius: 1rem;
+}
+
+
+
+
